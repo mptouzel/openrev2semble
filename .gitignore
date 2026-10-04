@@ -1,0 +1,9 @@
+# credentials
+.env
+
+# downloaded papers and generated maps (one folder per workshop/year)
+SocialSim*/
+*.pdf
+
+__pycache__/
+*.pyc

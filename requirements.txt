@@ -1,0 +1,9 @@
+openreview-py>=2.7
+python-dotenv
+sentence-transformers>=3.0
+scikit-learn
+networkx>=3.0
+plotly
+matplotlib
+numpy
+scipy
